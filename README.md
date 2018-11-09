@@ -1,6 +1,6 @@
 # Python-Stock-Profit-Calculator
 
-The application is available at the following link: https://python-homework1.herokuapp.com
+The application is available at the following link: [Stock Profit Calculator](https://python-homework1.herokuapp.com)
 
 This is a Python web application that it takes the following inputs:
 - A stock symbol
@@ -20,7 +20,7 @@ And outputs the following items after computation:
 
 ## For example:
 
-Compute Your Profit:
+###### Compute Your Profit:
 
 Ticker Symbol: 
 ADBE
@@ -43,7 +43,7 @@ Buy Commission:
 Capital Gain Tax Rate (%): 
 15
 
-PROFIT REPORT: 
+###### PROFIT REPORT: 
 Proceeds
 $11,000.00
 
