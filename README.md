@@ -20,7 +20,7 @@ And outputs the following items after computation:
 
 ## For example:
 
-###### Compute Your Profit:
+#### Compute Your Profit:
 
 Ticker Symbol: 
 ADBE
@@ -43,7 +43,7 @@ Buy Commission:
 Capital Gain Tax Rate (%): 
 15
 
-###### PROFIT REPORT: 
+#### PROFIT REPORT: 
 Proceeds
 $11,000.00
 
